@@ -1,6 +1,6 @@
 # Genetic Algorithm for Optimization in MATLAB
 
-This MATLAB script implements a basic Genetic Algorithm (GA) to solve basic optimization problem (single Objective). The GA operates by creating a population of potential solutions, represented as binary strings, and iteratively improving them through genetic operations like crossover and mutation.
+This MATLAB script implements a basic Genetic Algorithm (GA) to solve basic optimization problem (**single objective**). The GA operates by creating a population of potential solutions, represented as binary strings, and iteratively improving them through genetic operations like crossover and mutation.
 
 ## Key Features
 
